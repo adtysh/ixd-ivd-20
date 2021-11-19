@@ -35,7 +35,7 @@ function loadHighCharts() {
     title: {
       floating: true,
       align: 'left',
-      text: 'Planetary Exploration Budget Dataset',
+      text: 'Space Exploration Budget Dataset',
     },
     subtitle: {
       floating: true,
